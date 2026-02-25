@@ -26,7 +26,8 @@
 <img src="https://wsrv.nl/?url=avatars.githubusercontent.com/u/5904721?v=4&w=180&h=180&fit=cover&mask=circle" align="left">
 
 ```js
-const robin = {
+const ZushiH = {
+  name: 'Robin Rimlinger',
   role: 'Front End Developer',
   location: 'France',
   passion: 'Building modern and clean web interfaces',
