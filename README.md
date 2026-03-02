@@ -28,10 +28,15 @@
 ```js
 const ZushiH = {
   name: 'Robin Rimlinger',
-  role: 'Front End Developer',
-  location: 'France',
-  passion: 'Building modern and clean web interfaces',
-  focus: 'User experience & well-crafted code',
+  role: 'Senior Front-End Developer',
+  location: 'Les Mureaux, France',
+  education: 'Licence Pro CIM (Communication Informatique et Multimédia)',
+  interests: ['Music', 'Manga', 'Scuba Diving', 'Football', 'Guitar', 'New Tech'],
+  highlights: [
+    'Father and developer — organized, responsible, human-centered',
+    '8+ years building modern & clean web interfaces',
+    'Combining technical performance with aesthetics & UX',
+  ],
 };
 ```
 
