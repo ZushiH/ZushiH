@@ -85,7 +85,7 @@ const ZushiH = {
 &nbsp;&nbsp;
 <a href="https://lnkd.zushi.me/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linkedin&amp;theme=dark"/><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linkedin&amp;theme=light"/><img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="40"/></picture></a>
 &nbsp;&nbsp;
-<a href="https://zushi.me/books/"><img src="https://img.shields.io/badge/Blog-zushi.me-0D47A1?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+<a href="https://books.zushi.me"><img src="https://img.shields.io/badge/Blog-books.zushi.me-0D47A1?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </div>
 <br clear="both"/>
 
