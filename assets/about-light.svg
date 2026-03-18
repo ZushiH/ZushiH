@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 358">
+  <rect x="1" y="1" width="798" height="356" rx="10" fill="#FFFFFF" stroke="#D0D0D0" stroke-width="2"/>
+  <rect x="2" y="2" width="796" height="38" rx="9" fill="#E8E8E8"/>
+  <rect x="2" y="30" width="796" height="10" fill="#E8E8E8"/>
+  <line x1="2" y1="40" x2="798" y2="40" stroke="#D0D0D0" stroke-opacity="0.5"/>
+  <circle cx="24" cy="21" r="6" fill="#FF5F56"/>
+  <circle cx="44" cy="21" r="6" fill="#FFBD2E"/>
+  <circle cx="64" cy="21" r="6" fill="#27C93F"/>
+  <text x="88" y="25" font-family="Consolas,Monaco,'Courier New',monospace" font-size="13" fill="#333333">robin@zushi: ~/ cat about.json</text>
+
+  <!-- { -->
+  <text x="30" y="68" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#666666">{</text>
+
+  <!-- "role" -->
+  <text x="47" y="92" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#666666">"</text>
+  <text x="55" y="92" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#0066CC">role</text>
+  <text x="89" y="92" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#666666">": "</text>
+  <text x="122" y="92" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#2E7D32">Senior Front-End Developer @ Fluence</text>
+  <text x="424" y="92" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#666666">",</text>
+
+  <!-- "location" -->
+  <text x="47" y="116" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#666666">"</text>
+  <text x="55" y="116" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#0066CC">location</text>
+  <text x="122" y="116" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#666666">": "</text>
+  <text x="156" y="116" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#2E7D32">Les Mureaux, France</text>
+  <text x="324" y="116" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#666666">",</text>
+
+  <!-- "education" -->
+  <text x="47" y="140" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#666666">"</text>
+  <text x="55" y="140" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#0066CC">education</text>
+  <text x="131" y="140" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#666666">": "</text>
+  <text x="165" y="140" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#2E7D32">Licence Pro CIM (Communication Informatique et Multim&#233;dia)</text>
+  <text x="661" y="140" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#666666">",</text>
+
+  <!-- "highlights": [ -->
+  <text x="47" y="164" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#666666">"</text>
+  <text x="55" y="164" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#0066CC">highlights</text>
+  <text x="139" y="164" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#666666">": [</text>
+
+  <!-- highlight 1 -->
+  <text x="64" y="188" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#666666">"</text>
+  <text x="72" y="188" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#2E7D32">Father and developer — organized, responsible, human-centered</text>
+  <text x="593" y="188" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#666666">",</text>
+
+  <!-- highlight 2 -->
+  <text x="64" y="212" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#666666">"</text>
+  <text x="72" y="212" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#2E7D32">8+ years building modern &amp; clean web interfaces</text>
+  <text x="475" y="212" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#666666">",</text>
+
+  <!-- highlight 3 -->
+  <text x="64" y="236" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#666666">"</text>
+  <text x="72" y="236" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#2E7D32">Combining technical performance with aesthetics &amp; UX</text>
+  <text x="517" y="236" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#666666">"</text>
+
+  <!-- ], -->
+  <text x="47" y="260" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#666666">],</text>
+
+  <!-- "passions" -->
+  <text x="47" y="284" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#666666">"</text>
+  <text x="55" y="284" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#0066CC">passions</text>
+  <text x="122" y="284" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#666666">": [</text>
+  <text x="156" y="284" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#2E7D32">"Guitar", "Scuba Diving", "Manga", "Football", "Music"</text>
+  <text x="610" y="284" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#666666">],</text>
+
+  <!-- "philosophy" -->
+  <text x="47" y="308" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#666666">"</text>
+  <text x="55" y="308" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#0066CC">philosophy</text>
+  <text x="139" y="308" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#666666">": "</text>
+  <text x="173" y="308" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#2E7D32">Technical rigor serving a human vision</text>
+  <text x="492" y="308" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#666666">"</text>
+
+  <!-- } -->
+  <text x="30" y="332" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#666666">}</text>
+</svg>

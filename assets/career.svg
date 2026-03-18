@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 210" fill="none">
+  <!-- Terminal frame -->
+  <rect x="1" y="1" width="798" height="208" rx="10" fill="#1A1A2E" stroke="#05D9FF" stroke-width="2"/>
+  <!-- Title bar -->
+  <rect x="2" y="2" width="796" height="38" rx="9" fill="#16213E"/>
+  <rect x="2" y="30" width="796" height="10" fill="#16213E"/>
+  <line x1="2" y1="40" x2="798" y2="40" stroke="#05D9FF" stroke-opacity="0.3"/>
+  <!-- Dots -->
+  <circle cx="24" cy="21" r="6" fill="#FF5F56"/>
+  <circle cx="44" cy="21" r="6" fill="#FFBD2E"/>
+  <circle cx="64" cy="21" r="6" fill="#27C93F"/>
+  <!-- Title -->
+  <text x="88" y="25" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="13" fill="#05D9FF">robin@zushi: ~/ history --career</text>
+
+  <!-- Entry 1: Current — purple dot -->
+  <circle cx="40" cy="73" r="5" fill="#A855F7"/>
+  <text x="58" y="77" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="13" fill="#A855F7">09/2024 → Present</text>
+  <text x="270" y="77" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="13" fill="#E0E0E0">Front-End Developer @ Fluence</text>
+  <text x="640" y="77" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="12" fill="#808080">Full-time</text>
+
+  <!-- Entry 2 -->
+  <circle cx="40" cy="110" r="5" fill="#3B82F6"/>
+  <text x="58" y="114" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="13" fill="#3B82F6">03/2016 → 09/2024</text>
+  <text x="270" y="114" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="13" fill="#E0E0E0">FullStack Developer @ ClicRDV / SoLocal</text>
+  <text x="640" y="114" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="12" fill="#808080">8 yrs</text>
+
+  <!-- Entry 3 -->
+  <circle cx="40" cy="147" r="5" fill="#3B82F6"/>
+  <text x="58" y="151" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="13" fill="#3B82F6">09/2014 → 06/2015</text>
+  <text x="270" y="151" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="13" fill="#E0E0E0">Multimedia Developer @ Synakène / Edivista</text>
+  <text x="640" y="151" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="12" fill="#808080">Contract</text>
+
+  <!-- Entry 4 -->
+  <circle cx="40" cy="184" r="5" fill="#3B82F6"/>
+  <text x="58" y="188" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="13" fill="#3B82F6">10/2013 → 08/2014</text>
+  <text x="270" y="188" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="13" fill="#E0E0E0">IT Assistant @ Synakène</text>
+  <text x="640" y="188" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="12" fill="#808080">Apprentice</text>
+</svg>

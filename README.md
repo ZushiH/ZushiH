@@ -1,98 +1,78 @@
 <div align="center">
-<!-- header -->
+
+<!-- HEADER WAVE -->
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1565C0%2C100:0D47A1&amp;height=220&amp;section=header&amp;text=Robin%20Rimlinger&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=Front%20End%20Developer%20%7C%20France&amp;descSize=18&amp;descAlignY=55&amp;animation=fadeIn" width="100%"/>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:4FC3F7%2C100:0D47A1&amp;height=220&amp;section=header&amp;text=Robin%20Rimlinger&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=Front%20End%20Developer%20%7C%20France&amp;descSize=18&amp;descAlignY=55&amp;animation=fadeIn" width="100%"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FC3F7,100:0D47A1&height=220&section=header&text=Robin%20Rimlinger&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Front%20End%20Developer%20%7C%20France&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1A1A2E%2C100:0F3460&amp;height=120&amp;section=header" width="100%"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1565C0%2C100:0D47A1&amp;height=120&amp;section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1565C0%2C100:0D47A1&height=120&section=header" width="100%"/>
 </picture>
+
+<!-- LOGO + NAME -->
+<a href="https://books.zushi.me">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://books.zushi.me/images/zushi-logo-light.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://books.zushi.me/images/zushi-logo-dark.svg"/>
+    <img src="https://books.zushi.me/images/zushi-logo-dark.svg" alt="Zushi Logo" width="120"/>
+  </picture>
+</a>
 <br/>
-<!-- typing header -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;pause=1000&amp;color=4FC3F7&amp;center=true&amp;vCenter=true&amp;width=435&amp;lines=Building+modern+web+interfaces;Passionate+about+UX+%26+clean+code;Always+learning+new+things"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;pause=1000&amp;color=0D47A1&amp;center=true&amp;vCenter=true&amp;width=435&amp;lines=Building+modern+web+interfaces;Passionate+about+UX+%26+clean+code;Always+learning+new+things"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0D47A1&center=true&vCenter=true&width=435&lines=Building+modern+web+interfaces;Passionate+about+UX+%26+clean+code;Always+learning+new+things" alt="Typing SVG"/>
-</picture>
-</div>
-
-<br/>
-<!-- about me -->
-<div>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=speech&amp;color=0:0D47A1%2C100:1565C0&amp;height=80&amp;section=header&amp;text=About%20me&amp;fontSize=32&amp;fontColor=ffffff&amp;fontAlignY=45&amp;section=header&amp;reversal=true" width="100%"/>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=speech&amp;color=0:0D47A1%2C100:4FC3F7&amp;height=80&amp;section=header&amp;text=About%20me&amp;fontSize=32&amp;fontColor=ffffff&amp;fontAlignY=45&amp;section=header&amp;reversal=true" width="100%"/>
-  <img src="https://capsule-render.vercel.app/api?type=speech&amp;color=0:4FC3F7,100:0D47A1&amp;height=80&amp;color=gradient&amp;text=About%20me&amp;fontSize=32&amp;fontColor=ffffff&amp;fontAlignY=45&amp;section=header&amp;reversal=true" width="100%"/>
-</picture>
-
-<img src="https://wsrv.nl/?url=avatars.githubusercontent.com/u/5904721?v=4&w=180&h=180&fit=cover&mask=circle" align="left">
-
-```js
-const ZushiH = {
-  name: 'Robin Rimlinger',
-  role: 'Senior Front-End Developer',
-  location: 'Les Mureaux, France',
-  education: 'Licence Pro CIM (Communication Informatique et Multimédia)',
-  interests: ['Music', 'Manga', 'Scuba Diving', 'Football', 'Guitar', 'New Tech'],
-  highlights: [
-    'Father and developer — organized, responsible, human-centered',
-    '8+ years building modern & clean web interfaces',
-    'Combining technical performance with aesthetics & UX',
-  ],
-};
-```
-
-<br clear="both"/>
-</div><br/>
-<!-- tech stack -->
-<div>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=soft&amp;color=0:1565C0%2C100:0D47A1&amp;height=60&amp;section=header&amp;text=Tech%20Stack&amp;fontSize=32&amp;fontColor=ffffff&amp;fontAlignY=55&amp;section=header" width="100%"/>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&amp;color=0:4FC3F7%2C100:0D47A1&amp;height=60&amp;section=header&amp;text=Tech%20Stack&amp;fontSize=32&amp;fontColor=ffffff&amp;fontAlignY=55&amp;section=header" width="100%"/>
-  <img src="https://capsule-render.vercel.app/api?type=soft&amp;color=0:4FC3F7,100:0D47A1&amp;height=60&amp;color=gradient&amp;text=Tech%20Stack&amp;fontSize=32&amp;fontColor=ffffff&amp;fontAlignY=55&amp;section=header" width="100%"/>
-</picture>
-
-<h4>🎨 Front End</h4>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Cts%2Creact%2Cvue%2Cvuetify%2Cphotoshop%2Cillustrator&amp;theme=dark"/>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Cts%2Creact%2Cvue%2Cvuetify%2Cphotoshop%2Cillustrator&amp;theme=light"/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,vuetify,photoshop,illustrator&theme=light"/>
-</picture>
-
-<h4>⚙️ Back End</h4>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ruby%2Crails%2Cphp%2Cmysql%2Credis&amp;theme=dark"/>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ruby%2Crails%2Cphp%2Cmysql%2Credis&amp;theme=light"/>
-  <img src="https://skillicons.dev/icons?i=ruby,rails,php,mysql,redis&theme=light"/>
-</picture>
-
-<h4>🛠 Tools & OS</h4>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cgitlab%2Clinux%2Cwindows%2Capple&amp;theme=dark"/>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cgitlab%2Clinux%2Cwindows%2Capple&amp;theme=light"/>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,windows,apple&theme=light"/>
-</picture>
-</div>
-<br clear="both"/>
-<!-- find me -->
-<div><br/>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=soft&amp;color=0:1565C0%2C100:0D47A1&amp;height=60&amp;section=header&amp;text=Find%20me&amp;fontSize=32&amp;fontColor=ffffff&amp;fontAlignY=55&amp;section=header" width="100%"/>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&amp;color=0:4FC3F7%2C100:0D47A1&amp;height=60&amp;section=header&amp;text=Find%20me&amp;fontSize=32&amp;fontColor=ffffff&amp;fontAlignY=55&amp;section=header" width="100%"/>
-  <img src="https://capsule-render.vercel.app/api?type=soft&amp;color=0:4FC3F7,100:0D47A1&amp;height=60&amp;color=gradient&amp;text=Find%20me&amp;fontSize=32&amp;fontColor=ffffff&amp;fontAlignY=55&amp;section=header" width="100%"/>
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=60&text=Robin%20Rimlinger&fontSize=40&fontColor=05D9FF&fontAlignY=50" alt="Robin Rimlinger"/>
 <br/><br/>
-<div align='center'>
-<a href="https://github.com/RobinRim"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=github&amp;theme=dark"/><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=github&amp;theme=light"/><img src="https://skillicons.dev/icons?i=github&theme=light" width="40"/></picture></a>
-&nbsp;&nbsp;
-<a href="https://lnkd.zushi.me/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linkedin&amp;theme=dark"/><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linkedin&amp;theme=light"/><img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="40"/></picture></a>
-&nbsp;&nbsp;
-<a href="https://books.zushi.me"><img src="https://img.shields.io/badge/Blog-books.zushi.me-0D47A1?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-</div>
-<br clear="both"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=05D9FF&center=true&vCenter=true&width=550&lines=%F0%9F%8E%A8+Senior+Front-End+Developer;%E2%9A%A1+8%2B+years+building+modern+web+interfaces;%F0%9F%9A%80+React+%7C+Vue+%7C+Rails+%7C+TypeScript;%F0%9F%8E%AF+Technical+rigor+meets+human+vision" alt="Typing SVG"/>
 
-<!-- footer -->
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D47A1%2C100:1565C0&amp;height=120&amp;section=footer&amp;reversal=true" width="100%"/>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D47A1%2C100:4FC3F7&amp;height=120&amp;section=footer&amp;reversal=true" width="100%"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FC3F7,100:0D47A1&height=120&section=footer&amp;reversal=true" width="100%"/>
-</picture>
+<br/><br/>
+
+[![books.zushi.me](https://img.shields.io/badge/books.zushi.me-0F3460?style=for-the-badge&logo=googlechrome&logoColor=white)](https://books.zushi.me)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzN2MtMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NWMzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYgMi4wNiAwIDAgMS0yLjA2My0yLjA2NWEyLjA2NCAyLjA2NCAwIDEgMSAyLjA2MyAyLjA2NW0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMHoiLz48L3N2Zz4K&logoColor=white)](https://lnkd.zushi.me/)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZushiH)
+
 </div>
+
+<br/>
+<br/>
+
+<!-- ABOUT -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/about.svg" width="100%"/>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/about-light.svg" width="100%"/>
+  <img src="./assets/about-light.svg" width="100%" alt="About"/>
+</picture>
+
+<br/>
+<br/>
+
+<!-- STACK -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack.svg" width="100%"/>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg" width="100%"/>
+  <img src="./assets/stack-light.svg" width="100%" alt="Tech Stack"/>
+</picture>
+
+<br/>
+<br/>
+
+<!-- CAREER -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/career.svg" width="100%"/>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/career-light.svg" width="100%"/>
+  <img src="./assets/career-light.svg" width="100%" alt="Career"/>
+</picture>
+
+<br/>
+<br/>
+<br/>
+
+<div align="center">
+
+*"Technical rigor serving a human vision"*
+
+</div>
+
+<!-- FOOTER WAVE -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F3460%2C100:1A1A2E&amp;height=120&amp;section=footer" width="100%"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1565C0%2C100:0D47A1&amp;height=120&amp;section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1565C0%2C100:0D47A1&height=120&section=footer" width="100%"/>
+</picture>
