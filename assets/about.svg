@@ -23,14 +23,14 @@
   <text x="55" y="116" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#05D9FF">location</text>
   <text x="122" y="116" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#808080">": "</text>
   <text x="156" y="116" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#27C93F">Les Mureaux, France</text>
-  <text x="324" y="116" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#808080">",</text>
+  <text x="316" y="116" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#808080">",</text>
 
   <!-- "education" -->
   <text x="47" y="140" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#808080">"</text>
   <text x="55" y="140" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#05D9FF">education</text>
   <text x="131" y="140" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#808080">": "</text>
   <text x="165" y="140" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#27C93F">Licence Pro CIM (Communication Informatique et Multim&#233;dia)</text>
-  <text x="661" y="140" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#808080">",</text>
+  <text x="652" y="140" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#808080">",</text>
 
   <!-- "highlights": [ -->
   <text x="47" y="164" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#808080">"</text>
@@ -40,17 +40,17 @@
   <!-- highlight 1 -->
   <text x="64" y="188" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#808080">"</text>
   <text x="72" y="188" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#27C93F">Father and developer — organized, responsible, human-centered</text>
-  <text x="593" y="188" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#808080">",</text>
+  <text x="584" y="188" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#808080">",</text>
 
   <!-- highlight 2 -->
   <text x="64" y="212" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#808080">"</text>
   <text x="72" y="212" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#27C93F">8+ years building modern &amp; clean web interfaces</text>
-  <text x="475" y="212" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#808080">",</text>
+  <text x="466" y="212" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#808080">",</text>
 
   <!-- highlight 3 -->
   <text x="64" y="236" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#808080">"</text>
   <text x="72" y="236" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#27C93F">Combining technical performance with aesthetics &amp; UX</text>
-  <text x="517" y="236" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#808080">"</text>
+  <text x="509" y="236" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#808080">"</text>
 
   <!-- ], -->
   <text x="47" y="260" font-family="Consolas,Monaco,'Courier New',monospace" font-size="14" fill="#808080">],</text>
