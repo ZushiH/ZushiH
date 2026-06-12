@@ -18,7 +18,7 @@
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=60&text=Robin%20Rimlinger&fontSize=40&fontColor=05D9FF&fontAlignY=50" alt="Robin Rimlinger"/>
 <br/><br/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=05D9FF&center=true&vCenter=true&width=550&lines=%F0%9F%8E%A8+Senior+Front-End+Developer;%E2%9A%A1+8%2B+years+building+modern+web+interfaces;%F0%9F%9A%80+React+%7C+Vue+%7C+Rails+%7C+TypeScript;%F0%9F%8E%AF+Technical+rigor+meets+human+vision" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=05D9FF&center=true&vCenter=true&width=550&lines=%F0%9F%8E%A8+Senior+Front-End+Developer;%E2%9A%A1+9%2B+years+building+modern+web+interfaces;%F0%9F%9A%80+React+%7C+Vue+%7C+Rails+%7C+TypeScript;%F0%9F%8E%AF+Technical+rigor+meets+human+vision" alt="Typing SVG"/>
 
 <br/><br/>
 
