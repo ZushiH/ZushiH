@@ -72,6 +72,16 @@
 
 <br/>
 <br/>
+
+<!-- PROFESSIONAL -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/professional.svg" width="100%"/>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/professional-light.svg" width="100%"/>
+  <img src="./assets/professional-light.svg" width="100%" alt="Professional projects"/>
+</picture>
+
+<br/>
+<br/>
 <br/>
 
 <div align="center">
