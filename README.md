@@ -62,6 +62,16 @@
 
 <br/>
 <br/>
+
+<!-- PROJECTS -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/projects.svg" width="100%"/>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/projects-light.svg" width="100%"/>
+  <img src="./assets/projects-light.svg" width="100%" alt="Projects"/>
+</picture>
+
+<br/>
+<br/>
 <br/>
 
 <div align="center">
