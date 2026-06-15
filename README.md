@@ -82,6 +82,16 @@
 
 <br/>
 <br/>
+
+<!-- CONTRIB -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contrib.svg" width="100%"/>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/contrib-light.svg" width="100%"/>
+  <img src="./assets/contrib-light.svg" width="100%" alt="Open-source contributions"/>
+</picture>
+
+<br/>
+<br/>
 <br/>
 
 <div align="center">
