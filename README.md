@@ -8,7 +8,7 @@
 </picture>
 
 <!-- LOGO + NAME -->
-<a href="https://books.zushi.me">
+<a href="https://zushi.me">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://books.zushi.me/images/zushi-logo-light.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://books.zushi.me/images/zushi-logo-dark.svg"/>
